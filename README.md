@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Graham 👋
 
-My name is Graham, a full-Stack developer crafting fast, inclusive web products. 
+I'm a **full-Stack developer** crafting fast, inclusive web products. 
 
 I build websites and applications with HTML, CSS, JavaScript, PHP, and front-end libraries like React. My approach is inclusive and empathetic, aiming to create delightful digital experiences for everyone.
 
