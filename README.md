@@ -1,4 +1,4 @@
-### Hi there, I'm Graham 👋
+## Hi there, I'm Graham 👋
 
 I'm a **full-stack developer** crafting fast, inclusive web products. 
 
