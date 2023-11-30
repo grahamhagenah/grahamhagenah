@@ -6,7 +6,7 @@ I build websites and applications with HTML, CSS, JavaScript, PHP, and front-end
 
 ### Web Portfolio
 
-Check out my [web portfolio](https://grahamhagenah.com) to learn more about me and see my projects in action.
+I built my [web portfolio](https://grahamhagenah.com) with the static-site generator, Eleventy. Check it out to learn more about me and see my projects in action.
 
 
 
