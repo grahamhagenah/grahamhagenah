@@ -2,8 +2,6 @@
 
 I'm a **full-stack developer** crafting fast, inclusive web products. 
 
-I build websites and applications with HTML, CSS, JavaScript, PHP, and front-end libraries like React. My approach is inclusive and empathetic, aiming to create delightful digital experiences for everyone.
-
 ### Web Portfolio
 
 I built my [web portfolio](https://grahamhagenah.com) with the static-site generator, Eleventy. Check it out to learn more about me and see my projects in action.
