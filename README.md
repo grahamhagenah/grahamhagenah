@@ -1,24 +1,3 @@
-## Hi there, I'm Graham 👋
+# Graham Hagenah
 
-I'm a **full-stack developer** crafting fast, inclusive web products. 
-
-### Web Portfolio
-
-I built my [web portfolio](https://grahamhagenah.com) with the static-site generator, Eleventy. Check it out to learn more about me and see my projects in action.
-
-
-
-<!--
-**grahamhagenah/grahamhagenah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack developer building fast, accessible websites and applications, with a focus on interface design and user experience — mainly React on a foundation of HTML, CSS, and JavaScript. Currently an Applications Programmer at UC Santa Cruz, with freelance work for small businesses and nonprofits on the side.
