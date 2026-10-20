@@ -2,7 +2,7 @@
 
 Full-stack web developer building fast, accessible websites and applications, with a focus on interface design and user experience. I work mainly in React and TypeScript on a foundation of HTML, CSS, and JavaScript, and I've built WordPress sites for nonprofits, libraries, and a university.
 
-I'm an Applications Programmer at UC Santa Cruz, living in Somerville, MA. **Open to full-stack and front-end roles in any city, ideally the Boston area.**
+I'm an Applications Programmer at UC Santa Cruz, living in Somerville, MA. **Open to roles across web development, design, and everything in between, in any city, ideally the Boston area.**
 
 ## Projects
 
